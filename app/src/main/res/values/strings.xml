@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Chips</string>
+
+    <!-- array_list -->
+    <string name="array_list">动态数组</string>
+    <string name="input_add">要添加内容</string>
+    <string name="input_add_index">添加内容编号</string>
+    <string name="input_del">要删除内容</string>
+    <string name="input_del_index">删除内容编号</string>
+    <string name="input_set">要替换内容</string>
+    <string name="input_set_index">替换内容编号</string>
+    <string name="input_check">要检测内容</string>
+    <string name="add">添加</string>
+    <string name="del">删除</string>
+    <string name="set">替换</string>
+    <string name="clear">清空</string>
+    <string name="check">检测</string>
+    <string name="log">打印</string>
+
+    <!-- re -->
+    <string name="re">正则表达式</string>
+    <string name="title_activity_re">REActivity</string>
+    <string name="match_str">输入要匹配的字符串</string>
+    <string name="rule">输入匹配规则</string>
+    <string name="match_num">匹配数字</string>
+    <string name="match_lower_case">匹配小写字母</string>
+    <string name="match_upper_case">匹配大写字母</string>
+    <string name="match_all_case">匹配全部字符</string>
+    <string name="match_custom">自定义匹配</string>
+    <string name="all_match">全匹配</string>
+
+    <!-- timer -->
+    <string name="timer">计时器</string>
+    <string name="add_hour">+1h</string>
+    <string name="add_min">+1m</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="remain_min">-1m</string>
+    <string name="remain_hour">-1h</string>
+    <string name="version">版本不够!</string>
+    <string name="add_ten_hour">+10h</string>
+    <string name="other_timers">其他计时器</string>
+    <string name="click_start">请点击开始!</string>
+    <string name="tmp_time">00</string>
+
+    <!-- seek_bar -->
+    <string name="seek_bar">进度条</string>
+</resources>
